@@ -1,0 +1,7 @@
+fastapi
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+python-json-logger
+opentelemetry-instrumentation-logging
+opentelemetry-exporter-otlp
